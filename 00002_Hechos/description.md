@@ -4,8 +4,21 @@ En parte, sí. En nuestra base de conocimiento escribiremos aquellas cosas que s
 
 Así, por ejemplo, es un hecho que `drHouse`, es un `personajeDeFiccion`.
 
+Y en una base de conocimiento puede haber varios hechos, incluso hechos de diferente nombre:
+
+```prolog
+cancion(soloLePidoADios).
+cancion(jijiji).
+
+recital(deLasBandasEternas).
+```
+
+
 > Veamos si queda claro: escribi una base de conocimiento sobre paises. Los siguientes son hechos:
 > 
 > * Argentina es un pais
+> * Uruguay es un pais
+> * Santa Cruz es una provincia
+> * Canelones es un departamento
 
 
