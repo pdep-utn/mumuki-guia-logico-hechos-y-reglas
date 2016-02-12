@@ -4,8 +4,8 @@ test('leDicen(bernardo, ruso)') :-
 test('leDicen(jorge, jorge)') :-
   leDicen(jorge, jorge).
 
-test('leDicen(diablo, belcebu)') :-
-  leDicen(diablo, belcebu).
+test('leDicen(elDiablo, belcebu)') :-
+  leDicen(elDiablo, belcebu).
   
 test('leDicen(elDiablo, elDiablo)') :-
   leDicen(elDiablo, elDiablo).
