@@ -2,7 +2,7 @@ Entonces, ¿programar en Prolog se trata de escribir **una base de conocimiento*
 
 En parte, sí. En nuestra base de conocimiento escribiremos aquellas cosas que sabemos que son verdaderas: **los hechos**.
 
-Así, por ejemplo, es un hecho que `drHouse`, es un `personajeDeFiccion`.
+Así, por ejemplo, es un hecho que el indiviuo `drHouse`, es un `personajeDeFiccion`.
 
 Y en una base de conocimiento puede haber varios hechos, incluso hechos de diferente nombre:
 

@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: comePastas
+  inspection: HasBinding
+- binding: comeVerduras
+  inspection: HasBinding
+- binding: comeCarne
+  inspection: HasBinding

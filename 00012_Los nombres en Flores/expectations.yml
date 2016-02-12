@@ -4,3 +4,5 @@ expectations:
   inspection: HasArity:2
 - binding: leDicen
   inspection: HasBinding
+- binding: ''
+  inspection: ''
