@@ -12,7 +12,7 @@ Incluso podemos hacer consultas en la consola usando `,`.
 
 > ¡Probalo vos mismo! Hacé las siguientes consultas:
 > 
-> * `personajeDeNovela(frodo), personajeDeSerie(drHouse)`
-> * `personajeDeNovela(frodo), personajeDeSerie(eternauta)`
-> * `personajeDeNovela(frodo), personajeDeSerie(drHouse), personajeDeSerie(lukeSkywalker)`
+> * `personajeDeNovela(frodo), personajeDeSerie(drHouse).`
+> * `personajeDeNovela(frodo), personajeDeSerie(eternauta).`
+> * `personajeDeNovela(frodo), personajeDeSerie(drHouse), personajeDeSerie(lukeSkywalker).`
 > 
