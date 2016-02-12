@@ -12,5 +12,5 @@ expectations:
   inspection: HasArity:2
 - binding: poeta
   inspection: HasArity:1
-- binding: ''
-  inspection: ''
+- binding: poligrafo
+  inspection: HasArity:1
