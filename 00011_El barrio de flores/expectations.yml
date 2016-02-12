@@ -14,5 +14,3 @@ expectations:
   inspection: HasArity:1
 - binding: poligrafo
   inspection: HasArity:1
-- binding: ''
-  inspection: ''
