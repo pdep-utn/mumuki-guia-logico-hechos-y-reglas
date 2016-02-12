@@ -1,0 +1,2 @@
+apareceEnPinturaSurrealista(rodolfoSegundo).
+apareceEnCuentoSurrealista(mancuspia).
