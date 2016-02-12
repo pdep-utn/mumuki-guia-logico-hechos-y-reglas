@@ -17,3 +17,5 @@ Y se lee de la siguiente forma:
 
 Dicho de otra forma, nos está diciendo que un personaje de ficción es aquel individuo que cumpla alguna de las condiciones anteriores. 
 
+> Veamos si queda claro: escribí un predicado `personajeSurrealista/1`, que dice si un personaje es surrealista. > Esto ocurre cuando  
+
