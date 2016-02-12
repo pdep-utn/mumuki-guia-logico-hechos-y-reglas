@@ -2,5 +2,3 @@
 expectations:
 - binding: personajeDeFiccion
   inspection: HasBinding
-- binding: ''
-  inspection: ''
