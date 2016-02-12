@@ -1,7 +1,7 @@
 Prestá atención a cómo escribimos las cosas: en _camel case_ minúsucula. Esto significa que nuestros "términos" se escriben:
 
   * con la primera letra minúscula
-  * todas las palabras junta y con cada inicial en mayúscula
+  * todas las palabras juntas y con cada inicial en mayúscula
 
 Ejemplos que están bien:
 
