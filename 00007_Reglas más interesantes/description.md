@@ -1,1 +1,1 @@
-TODO, acá va un ejercicio
+¿Y si algo es verdadero cuando se cumplen varias condiciones? Por ejemplo, 
