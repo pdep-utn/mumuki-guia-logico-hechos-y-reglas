@@ -6,5 +6,3 @@ expectations:
   inspection: HasBinding
 - binding: hierba
   inspection: HasBinding
-- binding: ''
-  inspection: ''
