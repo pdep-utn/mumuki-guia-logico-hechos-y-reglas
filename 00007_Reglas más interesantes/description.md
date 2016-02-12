@@ -6,4 +6,10 @@ personajePopular(Personaje) :-
    personajeDePelicula(Personaje).
 ```
 
-Como ves, la `,` la usamos para decir que s tiene
+Como ves, la `,` la usamos para hacer el AND entre dos condiciones. 
+
+Incluso podemos hacer consultas en la consola usando `,`. 
+
+> ¡Probalo vos mismo! Hacé las siguientes consultas:
+> 
+> *
