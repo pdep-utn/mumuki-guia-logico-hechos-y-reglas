@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: provincia
   inspection: HasBinding
+- binding: ''
+  inspection: ''
