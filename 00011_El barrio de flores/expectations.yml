@@ -1,4 +1,14 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: viveEn
+  inspection: HasBinding
+- binding: poligrafo
+  inspection: HasBinding
+- binding: poeta
+  inspection: HasBinding
+- binding: tahur
+  inspection: HasBinding
+- binding: viveEn
+  inspection: HasArity:2
+- binding: poeta
+  inspection: HasArity:1
