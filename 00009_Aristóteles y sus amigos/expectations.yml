@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: mortal
+  inspection: HasUsage:hombre
+- binding: mortal
+  inspection: HasArity:1
+- binding: hombre
+  inspection: HasBinding
