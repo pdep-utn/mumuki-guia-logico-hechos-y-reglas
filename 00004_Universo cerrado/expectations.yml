@@ -6,3 +6,5 @@ expectations:
   inspection: HasBinding
 - binding: comeCarne
   inspection: HasBinding
+- binding: ''
+  inspection: ''
