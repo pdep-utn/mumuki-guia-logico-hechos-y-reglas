@@ -11,11 +11,11 @@ personajeDeFiccion(Alguien) :-
 
 Y se lee de la siguiente forma: 
 
-   * _si alguien es un personaje de novela, entonces es personaje de ficción_
-   * _si alguien es un personaje de serie, entonces es personaje de ficción_
-   * _si alguien es un personaje de película, entonces es personaje de ficción_
+   * _si **alguien** es un personaje de novela, entonces es personaje de ficción_
+   * _si **alguien** es un personaje de serie, entonces es personaje de ficción_
+   * _si **alguien** es un personaje de película, entonces es personaje de ficción_
 
-Dicho de otra forma, nos está diciendo que un personaje de ficción es aquel individuo que cumpla alguna de las condiciones anteriores. 
+Dicho de otra forma, nos está diciendo que un personaje de ficción es **cualquier individuo** que cumpla alguna de las condiciones anteriores. 
 
 > Veamos si queda claro: escribí un predicado `personajeSurrealista/1`, que dice si un personaje es surrealista.
 > Esto ocurre cuando aparece en una pintura surrealista, o en cuento surrealista.
