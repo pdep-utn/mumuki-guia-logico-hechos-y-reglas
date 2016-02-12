@@ -2,3 +2,5 @@
 expectations:
 - binding: personajeSurrealista
   inspection: HasArity:1
+- binding: personajeSurrealista
+  inspection: HasBinding

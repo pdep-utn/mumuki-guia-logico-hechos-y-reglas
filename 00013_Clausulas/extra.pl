@@ -1,2 +1,2 @@
-personajeDeCuentoSurrealista(rodolfoSegundo).
-apareceEnCuentoSurrealista(mancuspia).
+apareceEnPinturaSurrealista(rodolfoSegundo).
+personajeDeCuentoSurrealista(mancuspia).
