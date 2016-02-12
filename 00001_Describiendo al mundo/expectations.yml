@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: esPersonajeDeFiccion
+- binding: personajeDeFiccion
   inspection: HasBinding
-- binding: ''
-  inspection: ''
