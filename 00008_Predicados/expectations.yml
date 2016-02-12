@@ -1,4 +1,8 @@
 ---
 expectations:
-- binding: ''
-  inspection: ''
+- binding: fuego
+  inspection: HasBinding
+- binding: electrico
+  inspection: HasBinding
+- binding: hierba
+  inspection: HasBinding
