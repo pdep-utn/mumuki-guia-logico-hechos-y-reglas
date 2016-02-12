@@ -37,3 +37,4 @@ personajeDeFiccion(Alguien) :-
     personajeDePelicula(Alguien).
 ```
 
+> Probalo vos mismo: hacé algunas consultas usando `personajeDeFiccion`
