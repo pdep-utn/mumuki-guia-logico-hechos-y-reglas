@@ -5,5 +5,8 @@ test('personajeSurrealista(mancuspia)'):-
    personajeSurrealista(mancuspia).
 
 test('personajeSurrealista(rodolfoSegundo)'):-
-   (rodolfoSegundo).
+   personajeSurrealista(rodolfoSegundo).
+
+test('no es personajeSurrealista(tuProfesor)'):-
+   \+ personajeSurrealista(tuProfesor).
 
