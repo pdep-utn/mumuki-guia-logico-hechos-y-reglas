@@ -2,3 +2,5 @@
 expectations:
 - binding: esPersonajeDeFiccion
   inspection: HasBinding
+- binding: ''
+  inspection: ''

@@ -1,4 +1,10 @@
 ---
 expectations:
+- binding: departamento
+  inspection: HasBinding
+- binding: pais
+  inspection: HasBinding
+- binding: provincia
+  inspection: HasBinding
 - binding: ''
   inspection: ''

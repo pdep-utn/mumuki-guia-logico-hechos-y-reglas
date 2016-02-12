@@ -1,8 +1,8 @@
 
 test(frodo_es_personaje_de_ficcion):-
-    esPersonajeDeFiccion(frodo).
+    personajeDeFiccion(frodo).
     
 
 test('harryPotter es personaje de ficcion'):-
-    esPersonajeDeFiccion(harryPotter).
+    personajeDeFiccion(harryPotter).
     
