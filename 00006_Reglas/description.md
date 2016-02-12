@@ -1,1 +1,1 @@
-TODO
+TODO y clausulas
