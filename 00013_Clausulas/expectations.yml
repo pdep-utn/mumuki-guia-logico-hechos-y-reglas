@@ -4,3 +4,5 @@ expectations:
   inspection: HasArity:1
 - binding: personajeSurrealista
   inspection: HasBinding
+- binding: ''
+  inspection: ''
