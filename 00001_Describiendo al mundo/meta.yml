@@ -7,3 +7,4 @@ tags:
 - base conocimiento
 layout: editor_bottom
 type: problem
+extra_visible: false

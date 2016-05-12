@@ -11,7 +11,7 @@ Ejemplo:
 yes. % por (2)
 ? leDicen(jorge, jorge).
 yes. % por (1)
-? leDicen(diablo, belcebu).
+? leDicen(elDiablo, belcebu).
 yes. % por (3)
 ? leDicen(elDiablo, elDiablo).
 yes. % por (1)

@@ -6,4 +6,3 @@ expectations:
   inspection: HasArity:1
 - binding: hombre
   inspection: HasBinding
-  

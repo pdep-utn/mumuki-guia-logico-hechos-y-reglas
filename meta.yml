@@ -3,6 +3,7 @@ name: Hechos y Reglas
 locale: es
 type: learning
 beta: false
+teacher_info: 
 language: prolog
 id_format: '%05d'
 order:
