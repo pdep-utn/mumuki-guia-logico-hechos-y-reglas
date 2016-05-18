@@ -1,3 +1,3 @@
-duenio(gardfield, john).
+duenio(garfield, john).
 duenio(oddie, john).
 duenio(nermal, tioDeJohn).

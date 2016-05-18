@@ -16,7 +16,7 @@ Sin embargo, podemos tener predicados de más de un argumento: se los conoce com
 Ejemplo: 
 
 ```prolog
-duenio(gardfield, john).
+duenio(garfield, john).
 duenio(oddie, john).
 duenio(nermal, tioDeJohn).
 ```
