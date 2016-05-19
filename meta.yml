@@ -3,7 +3,7 @@ name: Hechos y Reglas
 locale: es
 type: learning
 beta: false
-teacher_info: 
+teacher_info: ''
 language: prolog
 id_format: '%05d'
 order:
@@ -14,10 +14,10 @@ order:
 - 8
 - 5
 - 10
+- 14
 - 11
 - 6
 - 13
 - 7
 - 9
 - 12
-- 14
