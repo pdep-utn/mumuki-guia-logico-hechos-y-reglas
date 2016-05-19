@@ -8,13 +8,13 @@ Ejemplo:
 
 ```prolog
 ? leDicen(bernardo, ruso).
-yes. % por (2)
+yes. % (por el punto 2.)
 ? leDicen(jorge, jorge).
-yes. % por (1)
+yes. % (por el punto 1.)
 ? leDicen(elDiablo, belcebu).
-yes. % por (3)
+yes. % (por el punto 3.)
 ? leDicen(elDiablo, elDiablo).
-yes. % por (1)
+yes. % (por el punto 1.)
 ```
 
 > Escribí el predicado `leDicen/2`
