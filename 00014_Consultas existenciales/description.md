@@ -4,7 +4,7 @@ En el ejemplo anterior teníamos la información sobre en qué año ocurrió cad
 
 Hasta ahora sólo veníamos haciendo consultas que denominaremos *individuales*, en donde esperábamos que el motor nos dijera si era o no cierta una afirmación, por ejemplo si es cierto que Frodo es un personaje de ficción.
 
-Sin embargo, el verdadero poder del paradigma es que trabaja con relaciones que, a diferencia de las funciones que son unidireccionales (a partir de una entrada perteneciente al dominio podemos obtener una salida perteneciente a la imagen) y deben cumplir con el principio de unicidad (sólo una imagen para cada valor del dominio), pueden ser consultadas de distintas formas.
+Sin embargo, el verdadero poder del paradigma es que trabaja con relaciones que, a diferencia de las funciones que son unidireccionales (a partir de una entrada perteneciente al dominio podemos obtener una salida perteneciente a la imagen) y deben cumplir con el principio de unicidad (sólo una imagen para cada valor del dominio), pueden ser consultadas de distintas formas y darnos más de un resultado para la misma consulta.
 
 Si te preguntás de qué estamos hablando, copiá las siguientes consultas en la consola y fijate qué te responde.
 
