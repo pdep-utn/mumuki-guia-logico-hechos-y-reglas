@@ -5,6 +5,6 @@ tags:
 - reglas
 - hechos
 - base conocimiento
-layout: editor_bottom
+layout: editor_right
 type: problem
 extra_visible: false
