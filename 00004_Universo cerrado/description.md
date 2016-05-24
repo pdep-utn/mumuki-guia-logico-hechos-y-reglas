@@ -14,7 +14,7 @@ Lo interesante es que si consultás "¿es Polonia un rio?"
 no.
 ```
 
-Va a responder "no" más allá de que no lo hayamos dicho explícitamente. Sólo afirmamos lo que sabemos verdadero. 
+Va a responder `no` más allá de que no lo hayamos dicho explícitamente. Sólo afirmamos lo que sabemos verdadero. 
 
 > Veamos si se entiende. Escribí la siguiente base de conocimiento:
 >
