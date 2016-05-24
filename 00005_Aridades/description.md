@@ -11,9 +11,7 @@ politico(juanJoseCastelli).
 %              +-- argumento
 ```
 
-Sin embargo, podemos tener predicados de más de un argumento: se los conoce como **relaciones**. 
-
-Ejemplo: 
+Sin embargo, podemos tener predicados de más de un argumento: se los conoce como **relaciones**:
 
 ```prolog
 duenio(garfield, john).
