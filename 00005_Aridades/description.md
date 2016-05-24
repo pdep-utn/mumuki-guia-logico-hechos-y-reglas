@@ -19,4 +19,4 @@ duenio(oddie, john).
 duenio(nermal, tioDeJohn).
 ```
 
-> Probá en la consola este predicado. 
+> Probá en la consola el predicado `duenio`. 
