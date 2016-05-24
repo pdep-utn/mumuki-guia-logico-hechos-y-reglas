@@ -7,7 +7,7 @@ pais(estonia).
 rio(ganges).
 ```
 
-Lo interesante es que si consultás "¿es Polonia un rio?" 
+Lo interesante es que si consultás _¿es Polonia un rio?_
 
 ```prolog
 ? rio(polonia).
