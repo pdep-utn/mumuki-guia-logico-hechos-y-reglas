@@ -5,3 +5,7 @@
 * Los predicados de aridad 1 son conocidos como *propiedades*, mientras que tengan aridad 2 o más son conocidos como *reglas* 
 * Un predicado está conformado por una o más *cláusulas*
 * Y cada cláusula puede ser o bien un *hecho* o bien una *regla*
+
+También vimos que el paradigma lógico se rige por el principio del *universo cerrado*, y que nuestra base de conocimiento habla sobre *individuos*, que pueden ser *números* o *átomos*.
+
+¡Pero hay más! Acompañanos a la próxima lección :grin:
