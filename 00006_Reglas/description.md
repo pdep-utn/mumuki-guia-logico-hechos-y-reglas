@@ -15,7 +15,7 @@ personajeDeSerie(drHouse).
 personajeDePelicula(lukeSkywalker).
 ```
 
-Y además, sabemos que todos los personajes de novela, serie o película son personajes de ficción. Entonces, ¿qué escribimos?
+Y además, sabemos que todos los personajes de novela, serie o película son personajes de ficción. ¿Cómo lo escribimos? ¿Así?:
 
 ```prolog
 personajeDeFiccion(martinFierro).
@@ -24,7 +24,7 @@ personajeDeFiccion(drHouse).
 % etc...
 ```
 
-Esto podría funcionar, pero no es mantenible: cada vez que agreguemos un personaje, vamos a tener que agregar una **cláusula** a cada predicado. ¡Qué dolor! :disappointed_relieved:
+Esto podría funcionar, pero no es _mantenible_: cada vez que agreguemos un personaje, vamos a tener que agregar una **cláusula** a cada predicado. ¡Qué dolor! :disappointed_relieved:
 
 Podemos hacerlo mejor, mediante **reglas**:
 
