@@ -4,4 +4,4 @@
 * Una base de conocimiento está conformada por uno o más *predicados*
 * Los predicados de aridad 1 son conocidos como *propiedades*, mientras que tengan aridad 2 o más son conocidos como *reglas* 
 * Un predicado está conformado por una o más *cláusulas*
-* Y cada cláusula puede ser o bien un *hecho* o bien una *regla* 
+* Y cada cláusula puede ser o bien un *hecho* o bien una *regla*
