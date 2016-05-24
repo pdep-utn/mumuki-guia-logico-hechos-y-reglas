@@ -1,6 +1,4 @@
-Entones, en la base de conocimiento listamos hechos que luego podemos consultar. 
-
-Algunos de esos hechos pueden tener el mismo nombre, como en:
+Entones, en la base de conocimiento listamos hechos que luego podemos consultar. Y algunos de esos hechos pueden tener el mismo nombre, como en:
 
 ```prolog
 gato(gardfield).
