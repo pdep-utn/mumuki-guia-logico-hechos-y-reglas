@@ -1,4 +1,4 @@
-Aristótles, un día que se le cortó la luz, se puso a pensar en lo siguiente, [formuló algo parecido a lo siguiente](https://es.wikipedia.org/wiki/Silogismo): 
+Aristótles, un día que se le cortó la luz, [se puso a pensar en algo parecido a lo siguiente](https://es.wikipedia.org/wiki/Silogismo): 
 
   * Todos los hombres son mortales
   * Sócrates es hombre
