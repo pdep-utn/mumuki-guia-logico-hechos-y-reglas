@@ -9,3 +9,7 @@ test('Nina no come pastas') :-
 
 test('Ana no come carne') :-
   \+ comeCarne(ana).
+  
+comeCarne(fede).
+comeVerduras(fede).
+comePastas(fede).
