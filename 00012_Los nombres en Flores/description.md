@@ -17,4 +17,4 @@ yes. % (por el punto 3.)
 yes. % (por el punto 1.)
 ```
 
-> Escribí el predicado `leDicen/2`
+> Escribí el predicado `leDicen/2`, que relaciona a una persona con la forma en que le dicen en el barrio de Flores. 
