@@ -1,16 +1,23 @@
 ---
 expectations:
-- binding: viveEn
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: viveEn
   inspection: HasBinding
-- binding: poligrafo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poligrafo
   inspection: HasBinding
-- binding: poeta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poeta
   inspection: HasBinding
-- binding: tahur
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: tahur
   inspection: HasBinding
-- binding: viveEn
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: viveEn
   inspection: HasArity:2
-- binding: poeta
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poeta
   inspection: HasArity:1
-- binding: poligrafo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: poligrafo
   inspection: HasArity:1

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: leDicen
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: leDicen
   inspection: HasArity:2
-- binding: leDicen
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: leDicen
   inspection: HasBinding

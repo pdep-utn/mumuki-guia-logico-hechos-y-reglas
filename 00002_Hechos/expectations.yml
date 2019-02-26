@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: departamento
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: departamento
   inspection: HasBinding
-- binding: pais
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: pais
   inspection: HasBinding
-- binding: provincia
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: provincia
   inspection: HasBinding

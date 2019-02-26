@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: fuego
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: fuego
   inspection: HasBinding
-- binding: electrico
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: electrico
   inspection: HasBinding
-- binding: hierba
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: hierba
   inspection: HasBinding

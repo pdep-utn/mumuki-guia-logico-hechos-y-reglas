@@ -4,7 +4,7 @@ test('pikacu es electrico'):-
 test('raichu es electrico'):-
   electrico(raichu).
   
-test('bulbasaur es de hierva'):-
+test('bulbasaur es de hierba'):-
   hierba(bulbasaur).
   
 test('charmander es de fuego') :-

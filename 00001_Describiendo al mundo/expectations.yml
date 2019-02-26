@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: personajeDeFiccion
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: personajeDeFiccion
   inspection: HasBinding

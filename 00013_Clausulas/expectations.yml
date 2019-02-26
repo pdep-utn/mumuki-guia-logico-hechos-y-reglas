@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: personajeSurrealista
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: personajeSurrealista
   inspection: HasArity:1
-- binding: personajeSurrealista
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: personajeSurrealista
   inspection: HasBinding

@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: comeVerduras
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: comeVerduras
   inspection: HasBinding
-- binding: comeCarne
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: comeCarne
   inspection: HasBinding
