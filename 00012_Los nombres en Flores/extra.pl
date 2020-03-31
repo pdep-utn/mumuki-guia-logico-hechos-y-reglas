@@ -1,5 +1,4 @@
-/*[IgnoreContentOnQuery]
-*/poeta(jorge).
+poeta(jorge).
 poligrafo(manuel).
 
 %Relaciona el nombre de un tahur y su apodo
